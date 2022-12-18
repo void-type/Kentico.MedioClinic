@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31829.152
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSApp", "CMS\CMSApp.csproj", "{BB8817AE-48DF-4672-A1CB-CFB7441B88DA}"
 EndProject
@@ -9,6 +9,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{0EA645F0-F98E-44FD-A9F7-4DD126BEC952}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedioClinic.Customizations.Admin", "MedioClinic.Customizations.Admin\MedioClinic.Customizations.Admin.csproj", "{6D42B763-CB1C-48FB-A97B-34852507AF3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KenticoCommunity.TinyPng", "..\KenticoCommunity.TinyPng\src\KenticoCommunity.TinyPng\KenticoCommunity.TinyPng.csproj", "{3CB0F78F-60D0-4E62-837C-42465FC02256}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{6D42B763-CB1C-48FB-A97B-34852507AF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D42B763-CB1C-48FB-A97B-34852507AF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D42B763-CB1C-48FB-A97B-34852507AF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB0F78F-60D0-4E62-837C-42465FC02256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB0F78F-60D0-4E62-837C-42465FC02256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB0F78F-60D0-4E62-837C-42465FC02256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB0F78F-60D0-4E62-837C-42465FC02256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
